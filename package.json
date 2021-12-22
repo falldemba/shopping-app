@@ -1,0 +1,16 @@
+{
+    "name": "shoppinglist",
+    "version": "1.0.0",
+    "description": "shopping list desktop app",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "Demba Fall",
+    "license": "MIT",
+    "dependencies": {
+        "electron": "^16.0.5",
+        "require": "^0.4.4"
+    }
+}
